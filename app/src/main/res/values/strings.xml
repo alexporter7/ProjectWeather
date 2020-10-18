@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectWeather</string>
+    <string-array name="default_cities">
+        <item>Orlando</item>
+        <item>New York City</item>
+        <item>Casselberry</item>
+    </string-array>
+</resources>
